@@ -2,8 +2,8 @@
   "enabled": [
     "en",
     "de",
-    "ro"
-	"pl"
+    "ro",
+    "pl"
   ],
   "aliases": {
     "en-GB": "en",
